@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-from get_token import get_tok
+from Token.get_token import get_tok
 
 intents = discord.Intents.all()
 
